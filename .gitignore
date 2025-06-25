@@ -1,0 +1,5 @@
+HackPad-backups/
+libraries/
+.DS_STORE
+*.lck
+*auto_saved*
