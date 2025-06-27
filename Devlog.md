@@ -9,3 +9,6 @@ Created the inital project, finished up the schematic, and started work on the p
 Added teto silkscreen and officially called it "teto board." In this time period between then and
 now, I was outlining a frame from [Machine Love](https://www.youtube.com/watch?v=sqK-jh4TDXo).
 
+## 6/26/25 (10:03)
+
+Finished 3d Model, completed PCB, added more teto :) submitting now...
